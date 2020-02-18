@@ -1,2 +1,11 @@
-# fcc-nasdaq-stock-checker
-Nasdaq Stock Price Checker for freeCodeCamp's Information Security and Quality Assurance certification. This is a full stack app, which takes a user's input of one or two stock code inputs, and retrieves the prices from each from an external API. It also allows users to "like" each stock, with the likes counter only registering unique IP addresses. The project was made with NodeJS, Express, MongoDB, HTML, HelmetJS and JavaScript, and tested using Chai.
+**FreeCodeCamp**- Information Security and Quality Assurance
+------
+
+Project Stock Price Checker
+
+1) SET NODE_ENV to `test` without quotes and set DB to your mongo connection string
+2) Complete the project in `routes/api.js` or by creating a handler/controller
+3) You will add any security features to `server.js`
+4) You will create all of the functional tests in `tests/2_functional-tests.js`
+
+
